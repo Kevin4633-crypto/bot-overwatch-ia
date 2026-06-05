@@ -70,15 +70,15 @@ Antes de iniciar el código de Python, los motores del proyecto deben estar acti
 Abre una terminal en tu sistema y ejecuta los siguientes comandos para descargar
 los modelos optimizados directamente dentro de tu contenedor de Ollama:
 
-### Los Siguientes Pasos se Ejecutaran en la Terminal
+# Los Siguientes Pasos se Ejecutaran en la Terminal
 ## Paso 3: Configurar el Entorno de Python
-# 1. Entrar a la carpeta del proyecto
+### 1. Entrar a la carpeta del proyecto
 cd ~/progra_3/proyecto/"Nueva carpeta"
 
-# 2. Activar el entorno virtual de Python
+### 2. Activar el entorno virtual de Python
 source mi_entorno/bin/activate
 
-# 3. Asegurar las librerías necesarias (en caso de reinstalación)
+### 3. Asegurar las librerías necesarias (en caso de reinstalación)
 pip install python-telegram-bot qdrant-client ollama pymupdf
 
 Paso 4: Configurar las Credenciales (Token de Telegram)
