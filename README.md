@@ -70,7 +70,8 @@ Antes de iniciar el código de Python, los motores del proyecto deben estar acti
 Abre una terminal en tu sistema y ejecuta los siguientes comandos para descargar
 los modelos optimizados directamente dentro de tu contenedor de Ollama:
 
-### Paso 3: Configurar el Entorno de Python
+### Los Siguientes Pasos se Ejecutaran en la Terminal
+## Paso 3: Configurar el Entorno de Python
 # 1. Entrar a la carpeta del proyecto
 cd ~/progra_3/proyecto/"Nueva carpeta"
 
